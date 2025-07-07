@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 MAIN VERSION
+=======
+VERSION1 BRANCH
+
+>>>>>>> version1
 original doc
 
 [tick] edited / push
