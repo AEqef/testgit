@@ -1,4 +1,4 @@
 original doc
 
-[ ] edited / push
+[tick ] edited / push
 [ ] merge 
